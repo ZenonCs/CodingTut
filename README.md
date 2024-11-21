@@ -4,7 +4,23 @@ How To Use
 
 
 
-Download the CodingTut.exe
+Download the CodingTut Folder
+
+
+
+
+
+
+UnZip The Folder
+
+
+
+
+
+
+Open The Exe
+
+
 
 
 Open It Once opened should say Welcome To Coding Tut! Press enter
